@@ -19,7 +19,6 @@
 |----------------------:	|--------------------------------	|------------------------------	|
 | Technical             	| HTML                           	|    JavaScript                          	|
 |                       	| CSS                            	|                              	|
-|                       	|                      	|                              	|
 | Software Development  	| Agile workflow                 	| CI/CD deployment             	|
 |                       	| API Design/Implementation      	| Data Structures & algorithms 	|
 |                       	| Mobile App Deployment          	| TDD/BDD                      	|
